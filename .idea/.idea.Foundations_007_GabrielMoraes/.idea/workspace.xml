@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b714d996-c32b-4d3d-8dd9-2d34900bba53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_A.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_B.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Skies.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Skies/Sky Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Skies/Sky Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Skies/Sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Skies/Sky.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 1.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 1.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 2.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 2.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 3.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 3.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 4.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 4.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 5.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Terrains/Terrain 5.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Post Processing.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Post Processing/Terrain Image Effects.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Post Processing/Terrain Image Effects.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Drone.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Drone.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 1Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 1Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 2Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 2Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 3Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 3Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 4.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 4.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 4Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 4Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 5.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 5.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 5Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 5Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 6.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Scenes/Scene 6.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/Milkor_M32_MGL_-_Animated.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/Milkor_M32_MGL_-_Animated.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/animations/Milkor_M32_MGL_-_Animated 1.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/animations/Milkor_M32_MGL_-_Animated 1.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/animations/Scene.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/animations/Scene.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/license.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Bullet_11.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Bullet_11.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Lens.002_13.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Lens.002_13.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte01.001_5.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte01.001_5.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte01_2.001_8.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte01_2.001_8.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte02.001_6.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte02.001_6.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte02_2.001_7.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte02_2.001_7.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte03.001_1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte03.001_1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte03_2.001_2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte03_2.001_2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte04.001_4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte04.001_4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte04_2.001_3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte04_2.001_3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte05.001_9.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte05.001_9.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte05_2.001_12.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Parte05_2.001_12.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Vertical_Grip.001_10.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/Vertical_Grip.001_10.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/material_0.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/materials/material_0.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte03.001_0_1_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte03.001_0_1_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte03_2.001_0_2_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte03_2.001_0_2_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte04.001_0_4_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte04.001_0_4_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte04_2.001_0_3_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_base_Parte04_2.001_0_3_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_casing_Parte02_2.001_0_11_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_casing_Parte02_2.001_0_11_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte01.001_0_5_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte01.001_0_5_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte01_2.001_0_8_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte01_2.001_0_8_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte02.001_0_6_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte02.001_0_6_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte02_2.001_0_7_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte02_2.001_0_7_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte05.001_0_9_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Parte05.001_0_9_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Vertical Grip.001_0_10_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_front_Vertical Grip.001_0_10_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_release_Parte02_2.001_0_19_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_release_Parte02_2.001_0_19_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_scope_Lens.002_0_22_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_scope_Lens.002_0_22_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_scope_Parte05.001_0_20_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_scope_Parte05.001_0_20_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_scope_Parte05_2.001_0_21_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_scope_Parte05_2.001_0_21_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug1_Bullet_0_12_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug1_Bullet_0_12_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug2_Bullet_0_13_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug2_Bullet_0_13_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug3_Bullet_0_14_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug3_Bullet_0_14_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug4_Bullet_0_15_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug4_Bullet_0_15_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug5_Bullet_0_16_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug5_Bullet_0_16_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug6_Bullet_0_17_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug6_Bullet_0_17_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug6_Vertical Grip.001_0_18_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_slug6_Vertical Grip.001_0_18_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_trigger_Parte03.001_0_23_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/GL_trigger_Parte03.001_0_23_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/armmesh_Mat_0_0_0.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/meshes/armmesh_Mat_0_0_0.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_baseColor_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_baseColor_43.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_metallicRoughness_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_metallicRoughness_44.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_metallicRoughness_44_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_metallicRoughness_44_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_normal_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_normal_45.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_specularf0_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Bullet_specularf0_46.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_baseColor_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_baseColor_51.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_metallicRoughness_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_metallicRoughness_52.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_metallicRoughness_52_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_metallicRoughness_52_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_normal_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_normal_53.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_transmission_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Lens.002_transmission_54.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_baseColor_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_baseColor_19.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_metallicRoughness_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_metallicRoughness_20.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_metallicRoughness_20_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_metallicRoughness_20_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_metallicRoughness_20_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_metallicRoughness_20_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_normal_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_normal_21.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_specularf0_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01.001_specularf0_22.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_baseColor_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_baseColor_31.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_metallicRoughness_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_metallicRoughness_32.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_metallicRoughness_32_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_metallicRoughness_32_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_metallicRoughness_32_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_metallicRoughness_32_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_normal_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_normal_33.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_specularf0_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte01_2.001_specularf0_34.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_baseColor_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_baseColor_23.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_metallicRoughness_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_metallicRoughness_24.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_metallicRoughness_24_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_metallicRoughness_24_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_metallicRoughness_24_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_metallicRoughness_24_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_normal_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_normal_25.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_specularf0_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02.001_specularf0_26.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_baseColor_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_baseColor_27.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_metallicRoughness_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_metallicRoughness_28.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_metallicRoughness_28_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_metallicRoughness_28_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_metallicRoughness_28_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_metallicRoughness_28_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_normal_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_normal_29.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_specularf0_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte02_2.001_specularf0_30.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_baseColor_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_baseColor_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_metallicRoughness_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_metallicRoughness_4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_metallicRoughness_4_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_metallicRoughness_4_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_metallicRoughness_4_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_metallicRoughness_4_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_normal_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_normal_5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_specularf0_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03.001_specularf0_6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_baseColor_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_baseColor_7.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_metallicRoughness_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_metallicRoughness_8.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_metallicRoughness_8_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_metallicRoughness_8_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_metallicRoughness_8_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_metallicRoughness_8_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_normal_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_normal_9.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_specularf0_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte03_2.001_specularf0_10.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_baseColor_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_baseColor_15.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_metallicRoughness_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_metallicRoughness_16.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_metallicRoughness_16_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_metallicRoughness_16_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_metallicRoughness_16_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_metallicRoughness_16_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_normal_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_normal_17.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_specularf0_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04.001_specularf0_18.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_baseColor_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_baseColor_11.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_metallicRoughness_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_metallicRoughness_12.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_metallicRoughness_12_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_metallicRoughness_12_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_metallicRoughness_12_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_metallicRoughness_12_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_normal_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_normal_13.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_specularf0_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte04_2.001_specularf0_14.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_baseColor_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_baseColor_35.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_metallicRoughness_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_metallicRoughness_36.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_metallicRoughness_36_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_metallicRoughness_36_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_metallicRoughness_36_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_metallicRoughness_36_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_normal_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_normal_37.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_specularf0_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05.001_specularf0_38.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_baseColor_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_baseColor_47.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_metallicRoughness_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_metallicRoughness_48.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_metallicRoughness_48_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_metallicRoughness_48_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_metallicRoughness_48_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_metallicRoughness_48_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_normal_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_normal_49.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_specularf0_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Parte05_2.001_specularf0_50.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_baseColor_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_baseColor_39.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_metallicRoughness_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_metallicRoughness_40.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_metallicRoughness_40_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_metallicRoughness_40_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_metallicRoughness_40_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_metallicRoughness_40_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_normal_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_normal_41.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_specularf0_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/Vertical_Grip.001_specularf0_42.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_baseColor_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_baseColor_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_metallicRoughness_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_metallicRoughness_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_metallicRoughness_1_metal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_metallicRoughness_1_metal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_metallicRoughness_1_occlusion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_metallicRoughness_1_occlusion.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_normal_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Import/Milkor_M32_MGL_-_Animated/textures/material_normal_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/AircraftDemoScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/AircraftDemoScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets/New Lighting Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets/New Lighting Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets/Pixel_camo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets/Pixel_camo.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets/plane_mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/DemoSceneAssets/plane_mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_A.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_A.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_B.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_B.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_C.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_C.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_CUSTOM.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Aircraft_mat_CUSTOM.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Cont_mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Cont_mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Rope_mat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Materials/Rope_mat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models/Aircraft1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models/Aircraft1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models/cont.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models/cont.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models/rope.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Models/rope.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/Container.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/Container.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_A.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_A.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_B.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_B.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_C.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_C.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_Custom.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/MCAircraft_Custom.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/Rope.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Prefabs/Rope.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Shaders/PBR Aircraft Shader.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Shaders/PBR Aircraft Shader.shadergraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Shaders/PBR Custom Aircraft Shader.shadergraph" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Shaders/PBR Custom Aircraft Shader.shadergraph.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_BaseColor_A.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_BaseColor_A.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_BaseColor_B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_BaseColor_B.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_BaseColor_C.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_BaseColor_C.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Normal_DirectX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Normal_DirectX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Normal_OpenGL.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/Aircraft1_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/paint_MASK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/Aircraft_tex/paint_MASK.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_AO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_AO.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Normal_DirectX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Normal_DirectX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Normal_OpenGL.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/cont_tex/cont_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_BaseColor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_BaseColor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Metallic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Metallic.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Normal_DirectX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Normal_DirectX.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Normal_OpenGL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Normal_OpenGL.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Roughness.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Military Cargo Aircraft/Textures/rope_tex/rope_Roughness.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/RobotNew.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/RobotNew.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/XRB01_Anim 1.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/XRB01_Anim 1.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/XRB01_Anim.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/XRB01_Anim.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Drone.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Drone.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shoot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shoot.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Cliff_1_DiffuseCliff_1_Normaleda51f90c7f37482.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Cliff_1_DiffuseCliff_1_Normaleda51f90c7f37482.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Cliff_2_DiffuseCliff_2_Normaleda51f90c7f37482.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Cliff_2_DiffuseCliff_2_Normaleda51f90c7f37482.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Dirt_1_DiffuseDirt_1_Normal2023054508611406.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Dirt_1_DiffuseDirt_1_Normal2023054508611406.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Dirt_2_DiffuseDirt_2_Normal2023054508611406.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Dirt_2_DiffuseDirt_2_Normal2023054508611406.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_1_DiffuseGrass_1_Normal2023054508611406.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_1_DiffuseGrass_1_Normal2023054508611406.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_2_DiffuseGrass_2_Normal2023054508611406.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Grass_2_DiffuseGrass_2_Normal2023054508611406.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Mossy_Rock_DiffuseMossy_Rock_Normal2023054508611406.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Mossy_Rock_DiffuseMossy_Rock_Normal2023054508611406.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Sand_DiffuseSand_Normal2023054508611406.terrainlayer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_TerrainAutoUpgrade/layer_Sand_DiffuseSand_Normal2023054508611406.terrainlayer.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recordings/4_2Crisp_Lightining.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recordings/4_3_Robo_Giblets.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/GlobalNamespace.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UIElements.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.PackageManager.UI.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.Rendering.LookDev.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.ShaderGraph.Drawing.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.UIElements.Debugger.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEditor.UIElements.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIElementsSchema/UnityEngine.UIElements.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Foundations_007_GabrielMoraes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Foundations_007_GabrielMoraes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/StarterAssets/InputSystem/StarterAssets.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/StarterAssets/InputSystem/StarterAssets.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Robot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Robot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FirstLevel.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FirstLevel.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LightProbes.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LightProbes.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ragdoll.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ragdoll.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoboGiblets.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoboGiblets.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Drone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LockandKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shoot.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2dXmCeMpDT2qUMr63bagqPyVT6p" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;4__3__Robo__Giblets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\gabri\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\gabri\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\gabri\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;H:\Users\gabri\Documents\XR Bootcamp\Foundations_007_GabrielMoraes&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="H:\Users\gabri\Documents\XR Bootcamp\Foundations_007_GabrielMoraes" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2020.3.12f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;H:\Users\gabri\Documents\XR Bootcamp\Foundations_007_GabrielMoraes&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="H:\Users\gabri\Documents\XR Bootcamp\Foundations_007_GabrielMoraes" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b714d996-c32b-4d3d-8dd9-2d34900bba53" name="Changes" comment="" />
+      <created>1710162677831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710162677831</updated>
+      <workItem from="1710162687343" duration="12751000" />
+      <workItem from="1710243046027" duration="14698000" />
+      <workItem from="1710370611188" duration="357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

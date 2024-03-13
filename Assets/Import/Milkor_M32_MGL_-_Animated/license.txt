@@ -1,0 +1,11 @@
+Model Information:
+* title:	Milkor M32 MGL - Animated
+* source:	https://sketchfab.com/3d-models/milkor-m32-mgl-animated-c1ec177cde0948f0a4b4b53b9be8aadd
+* author:	user77 (https://sketchfab.com/user77)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Milkor M32 MGL - Animated" (https://sketchfab.com/3d-models/milkor-m32-mgl-animated-c1ec177cde0948f0a4b4b53b9be8aadd) by user77 (https://sketchfab.com/user77) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
